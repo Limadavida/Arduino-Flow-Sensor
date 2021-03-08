@@ -43,7 +43,7 @@ int maxmV = 14;
 
 #ifdef GANHO_DOIS
 #define valMax 530 // 100%
-#define valMin 125 // 21%
+#define valMin 120 // 21%
 #endif
 
 #ifdef GANHO_QUATRO
