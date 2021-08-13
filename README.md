@@ -21,9 +21,3 @@
 ## Advantages
 
 > Although I've used Delay(), the code has a fast reading of the sensor. Besides, the exponential filter to ADS1115 can filter noises and the code has the flexibility to change the gain of the ADS1115.
-
-------------
-
-## Status
-
-> This project was the result of prototyping. Although the code works well, I`m organizing the project to implement in companies. Therefore at the next level, I will be doing Macro, Class, and health check algorithm.
